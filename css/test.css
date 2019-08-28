@@ -1,0 +1,59 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+.containter{
+    width:300px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+
+    background-color: white;
+    padding: 16px;
+    text-shadow: -1px -1px 1px #fff, 1px 1px 1px #000000;
+}
+
+.containter [data-head-me]{
+    width: 333px;
+    height: 30px;
+    margin-top: -20px;
+    margin-left: -17px;
+    background: black;
+}
+.containter h1{
+    font-size: 15px;
+    font-family: "Noto Sans Carian";
+    color: white;
+    text-align: center;
+
+    padding-right: 3px;
+
+}
+
+.containter [data-btn-me]{
+    background-color: black;
+    width:200px;
+    color:white;
+    padding: 5px;
+    margin-top: 10px;
+    margin-left: 60px;
+    border-radius: 15px;
+}
+
+.containter [data-input-me]{
+    background-color: white;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
+
+.containter input{
+    width: auto;
+    padding: 3px;
+    margin-left: 40px;
+    text-shadow: black;  background-color: white;
+
+
+}
